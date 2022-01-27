@@ -1,0 +1,12 @@
+﻿1. Run gui.py
+2. wait for PyQt to open 
+3. enter quey in given box
+(example queries are given below)
+
+
+ईश्वर 
+बिका हुआ पत्रकार
+आरोग्यता 
+देशद्रोही नहीं
+अक्षय तृतीया
+भाजपा
